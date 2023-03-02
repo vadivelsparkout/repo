@@ -1,1 +1,2 @@
 stagging file should be removed
+second line will not be removed
